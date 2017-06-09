@@ -1,0 +1,15 @@
+Package: KzooStats
+Type: Package
+Title: Data Sets for MATH-365 (Kalamazoo College)
+Version: 0.0.0.9000
+Authors@R: person("Raoul", "Wadhwa", email="raoulwadhwa@gmail.com",
+                  role = c("aut","cre"))
+Description: Customized package containing data sets used in the
+    Mathematical Statistics course (MATH-365) at Kalamazoo College.
+    This package groups data sets from a variety of sources; see
+    the individual help pages for source details.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Suggests: R (>= 3.2.0)
+RoxygenNote: 6.0.1.9000
